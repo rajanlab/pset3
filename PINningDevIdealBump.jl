@@ -10,7 +10,7 @@ import NPZ
 import GR
 
 #function wrap(;bottled_noise=false, learn=true, run=true, save=false, plot=false)
-    bottled_noise = true
+    bottled_noise = false
     learn = true
     run = true
     save = false
